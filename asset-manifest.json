@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71602719.css",
+    "main.js": "/static/js/main.7ba423ac.js",
+    "static/media/rocket.jpg": "/static/media/rocket.fcd103b05948cf85dd31.jpg",
+    "static/media/haircut.jpg": "/static/media/haircut.6a300538ace05ffeb732.jpg",
+    "static/media/library.jpg": "/static/media/library.c770eef7a0892143d363.jpg",
+    "static/media/arcade.jpg": "/static/media/arcade.033233edbf81107de7ca.jpg",
+    "static/media/pocketwatch.jpg": "/static/media/pocketwatch.b686fefdd8035db02c2c.jpg",
+    "static/media/20201019_110817.png": "/static/media/20201019_110817.61a87bd477f9bea4f837.png",
+    "index.html": "/index.html",
+    "main.71602719.css.map": "/static/css/main.71602719.css.map",
+    "main.7ba423ac.js.map": "/static/js/main.7ba423ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71602719.css",
+    "static/js/main.7ba423ac.js"
+  ]
+}
